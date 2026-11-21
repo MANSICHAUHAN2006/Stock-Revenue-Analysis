@@ -78,7 +78,7 @@ The visualizations use historical data up to June 2021 for stock prices and Apri
 ```text
 Stock-Revenue-Analysis/
 │
-├── Tesla and GameStop Stock & Revenue Analysis.ipynb
+├── [Revenue Data and Building a Dashboard.ipynb)
 │
 └── README.md
 ```
